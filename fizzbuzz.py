@@ -8,4 +8,4 @@ for num in range (endnum):
     elif num % 3 == 0:
         print("Fizz")
     else:
-    print(num)
+        print(num)
